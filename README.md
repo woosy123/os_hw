@@ -12,5 +12,15 @@
    
   git clone https://github.com/woosy123/os_hw.git
 
+5. ls로 현재 directory에 os_hw 폴더 생성 확인
 
-6. 
+6.  osl.c 파일 실행
+ 
+  cd os_hw
+  vi os1.c
+
+*참고*
+
+  cd os_hw
+  ls
+
