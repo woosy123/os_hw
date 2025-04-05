@@ -10,13 +10,13 @@
    
    <>code 에서 HTTPs로 clone
    
-        git clone https://github.com/woosy123/os_hw.git
+       git clone https://github.com/woosy123/os_hw.git
 
 5. ls로 현재 directory에 os_hw 폴더 생성 확인       
 6. osl.c 파일 실행
 
-        cd os_hw
-        vi os1.c
+       cd os_hw
+       vi os1.c
 
 
 ## 참고
