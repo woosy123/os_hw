@@ -3,7 +3,12 @@
 
 1. 'ctrl + alt + t'로 terminal 열기
 2. update 및 git 설치
-   .
+   asdflkdsf
+
+      sudo apt update
+
+   nn
+   
      sudo apt update
   
      sudo apt install git
