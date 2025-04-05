@@ -9,6 +9,7 @@
   sudo apt install git
   
 4. git clone으로 repository 가져오기
+<>code 에서 HTTPs로 clone
    
   git clone https://github.com/woosy123/os_hw.git
 
