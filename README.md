@@ -5,8 +5,12 @@
 2. update 및 git 설치
 
   sudo apt update
+  
   sudo apt install git
   
 4. git clone으로 repository 가져오기
-  git clone 
-5. 
+   
+  git clone https://github.com/woosy123/os_hw.git
+
+
+6. 
