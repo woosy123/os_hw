@@ -4,7 +4,7 @@
 2. update 및 git 설치
 
             sudo apt update
-            sudo apt install git vi
+            sudo apt install git
   
 4. git clone으로 repository 가져오기
    
