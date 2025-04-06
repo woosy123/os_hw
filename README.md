@@ -29,12 +29,12 @@
    os_hw 폴더 확인
 
    
-6. os1.c 파일 수정
+6. os1.c, os2.c 파일 수정
 
        cd os_hw
-       vi os1.c
+       vi [파일명] #예 vi os1.c
 
-7. C 컴파일하기
+8. C 컴파일하기
 
    a) gcc 설치
 
@@ -44,7 +44,7 @@
 
    b) 실행파일 생성
 
-       gcc os1.c
+       gcc [파일명] #예 gcc os1.c
        ls 
 
    코드에 문제가 없다면 정상적으로 a.out이 생성됨
