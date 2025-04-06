@@ -40,7 +40,7 @@
 
    gcc :  다양한 프로그래밍 언어를 위한 오픈소스 컴파일러
    
-       sudo apt install gcc
+       sudo apt install -y gcc
 
    b) 실행파일 생성
 
