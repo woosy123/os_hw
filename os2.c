@@ -193,7 +193,7 @@ int main(int argc, char* argv[]) {
             Procs_cnt++; 
         }
     }
-    """
+    /*
     한바퀴 돌면서 arrival_time이 0인걸 찾아야함 : 0번 프로세스, IDLE,
     0인 프로세스들을 ready_q에 집어넣음
     ready_q에 먼저 들어가있는 프로세스의 operation을 실행
@@ -203,7 +203,7 @@ int main(int argc, char* argv[]) {
     만약 실행하는게 I/O일경우 거기에 해당하는 process를 wait q에 보냄
     I/O작업이 끝나면 다시 ready_q로 복귀
     만약에 끝이나면 삭제
-    """
+    */
     while(Clock <=totalclock){
         list_for_each_entry(cur,&job_q, job) {
             if (Clock == cur->arrival_time) {
